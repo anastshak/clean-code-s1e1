@@ -76,6 +76,10 @@
 }
 
 /* Heading */
+.hidden {
+    display: none;
+}
+
 .section-title,
 .adding-task__label {
   color: #333;
